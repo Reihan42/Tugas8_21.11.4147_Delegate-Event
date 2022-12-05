@@ -1,0 +1,12 @@
+D:\Reihan file\Kuliah Semester 2 Ganjil\Pemograman Lanjutan\Tugas 8_21.11.4147\Tugas 8\obj\Debug\Tugas 8.csproj.AssemblyReference.cache
+D:\Reihan file\Kuliah Semester 2 Ganjil\Pemograman Lanjutan\Tugas 8_21.11.4147\Tugas 8\obj\Debug\Tugas 8.csproj.SuggestedBindingRedirects.cache
+D:\Reihan file\Kuliah Semester 2 Ganjil\Pemograman Lanjutan\Tugas 8_21.11.4147\Tugas 8\obj\Debug\Tugas_8.Calculator.resources
+D:\Reihan file\Kuliah Semester 2 Ganjil\Pemograman Lanjutan\Tugas 8_21.11.4147\Tugas 8\obj\Debug\Tugas_8.Properties.Resources.resources
+D:\Reihan file\Kuliah Semester 2 Ganjil\Pemograman Lanjutan\Tugas 8_21.11.4147\Tugas 8\obj\Debug\Tugas 8.csproj.GenerateResource.cache
+D:\Reihan file\Kuliah Semester 2 Ganjil\Pemograman Lanjutan\Tugas 8_21.11.4147\Tugas 8\obj\Debug\Tugas 8.csproj.CoreCompileInputs.cache
+D:\Reihan file\Kuliah Semester 2 Ganjil\Pemograman Lanjutan\Tugas 8_21.11.4147\Tugas 8\bin\Debug\Tugas 8.exe.config
+D:\Reihan file\Kuliah Semester 2 Ganjil\Pemograman Lanjutan\Tugas 8_21.11.4147\Tugas 8\bin\Debug\Tugas 8.exe
+D:\Reihan file\Kuliah Semester 2 Ganjil\Pemograman Lanjutan\Tugas 8_21.11.4147\Tugas 8\bin\Debug\Tugas 8.pdb
+D:\Reihan file\Kuliah Semester 2 Ganjil\Pemograman Lanjutan\Tugas 8_21.11.4147\Tugas 8\obj\Debug\Tugas_8.HasilPerhitungan.resources
+D:\Reihan file\Kuliah Semester 2 Ganjil\Pemograman Lanjutan\Tugas 8_21.11.4147\Tugas 8\obj\Debug\Tugas 8.exe
+D:\Reihan file\Kuliah Semester 2 Ganjil\Pemograman Lanjutan\Tugas 8_21.11.4147\Tugas 8\obj\Debug\Tugas 8.pdb
